@@ -1,0 +1,5 @@
+name: "DoubleShulkerDrops"
+main: uk.cleslie.dsd.system.Main
+author: "Callum Leslie"
+version: "1.0"
+api-version: "1.19"
